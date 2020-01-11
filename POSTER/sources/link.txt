@@ -10,7 +10,7 @@ https://git.io/Jvvtf
 https://github.com/esu-tg/tg-app-old/releases/latest/download/telegram-old.apk
 https://git.io/JvvtJ
 
-curl -i https://git.io -F url=https://esu-tg.github.io/ -F code=dbsywt
+curl -i https://git.io -F url=https://esu-tg.github.io/tg-poster-online -F code=dbssm
 
 git.io/dbapp
 git.io/dbsywt
@@ -28,3 +28,6 @@ tg://proxy?server=Bow.MonsterX.space&port=443&secret=eec254a2b7f3080ac6ff9465eef
 tg://setlanguage?lang=classic-zh-cn
 
 https://esu-tg.github.io/
+
+https://esu-tg.github.io/tg-poster-online
+git.io/dbssm
